@@ -1,14 +1,9 @@
 {
   "com.webos.service.eventmonitor": [
-    "settings",
-    "notifications",
-    "applications",
-    "applications.internal",
-    "networking.query",
-    "devices",
-    "nfc.query",
-    "services",
-    "networking.internal",
-    "tv.management"
+    "application.operation",
+    "notification.management",
+    "notification.operation",
+    "settings.query",
+    "networkconnection.query"
   ]
 }
